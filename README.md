@@ -30,3 +30,44 @@ Este proyecto fue desarrollado para practicar lógica de programación en JavaSc
 ├── assets/ # Imágenes y recursos
 
 └── README.md # Documentación
+
+## 🛠️ Instalación y ejecución
+1. Clonar este repositorio:
+   ```bash
+   git clone https://github.com/williamblancovellojin/Amigo-secreto-wll.git
+Abrir el archivo index.html en un navegador web.
+
+No se requieren dependencias ni instalación adicional (JavaScript puro).
+
+📦 Tecnologías utilizadas
+HTML5
+
+CSS3
+
+JavaScript (ES6+)
+
+🖥️ Uso
+Escribir un nombre en el campo de texto.
+
+Presionar Añadir para agregarlo a la lista.
+
+Repetir para todos los amigos que participarán.
+
+Presionar Sortear amigo para elegir uno al azar.
+
+⚠️ Posibles problemas
+Si intentas añadir un nombre vacío, aparecerá una alerta.
+
+Si no hay nombres en la lista al momento de sortear, aparecerá un mensaje de advertencia.
+
+✨ Mejoras futuras
+Eliminar nombres de la lista.
+
+Guardar la lista en almacenamiento local.
+
+Animaciones y efectos visuales para el sorteo.
+
+📄 Licencia
+Este proyecto es de uso libre para fines educativos.
+
+Nota final. 
